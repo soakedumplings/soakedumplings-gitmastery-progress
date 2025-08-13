@@ -43,5 +43,14 @@
       "Missing remote called 'upstream'."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755068741.783338,
+    "completed_at": 1755068742.765097,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
   }
 ]
